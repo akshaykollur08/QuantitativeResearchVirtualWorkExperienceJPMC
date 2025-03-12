@@ -1,5 +1,5 @@
 # Author: Akshay Kollur
-# Task Three for JPMorgan Chase & Co. Quantitative Research Virtual Work Experience
+# Task Three for JPMorgan Chase & Co. Quantitative Research Virtual Work Experience: Credit Risk Analysis
 
 # Some imports to be used throughout the program:
 import pandas as pd

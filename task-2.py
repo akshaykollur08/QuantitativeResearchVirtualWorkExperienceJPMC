@@ -1,5 +1,5 @@
 # Author: Akshay Kollur
-# Task Two for JPMorgan Chase & Co. Quantitative Research Virtual Work Experience
+# Task Two for JPMorgan Chase & Co. Quantitative Research Virtual Work Experience: Price a Storage Commodity Contract
 
 # Various imports to be used throughout Task Two
 import csv

@@ -1,5 +1,5 @@
 # Author: Akshay Kollur
-# Task One for JPMorgan Chase & Co. Quantitative Research Virtual Work Experience
+# Task One for JPMorgan Chase & Co. Quantitative Research Virtual Work Experience: Investigate and Analyze Price Data
 
 # Various imports to be used for data visualization, extrapolation, mathematics, machine learning, and linear modeling
 import matplotlib.pyplot as plt
